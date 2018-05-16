@@ -1,39 +1,19 @@
 # Updates & Comments components
 
-> Project description
+> Updates tab displays all update posts for a project on a timeline view with newest update on top.
+> Clicking an update inside the timeline view displays the post
+> Comments tab displays all comments for the project
+
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+  - https://github.com/hack-reactor-fec/campaign-module
+  - https://github.com/hack-reactor-fec/product-summary
+  - https://github.com/hack-reactor-fec/navbar-module
+  - https://github.com/hack-reactor-fec/community-module
+  - https://github.com/hack-reactor-fec/sam-proxy-server
 
 ## Usage
-
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
+-npm install
+-npm start
 
