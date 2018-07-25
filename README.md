@@ -4,6 +4,8 @@
 > Clicking an update inside the timeline view displays the post
 > Comments tab displays all comments for the project
 
+# DEMO
+- https://vimeo.com/267902202
 
 ## Related Projects
 
